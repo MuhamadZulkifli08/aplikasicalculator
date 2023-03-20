@@ -1,0 +1,8 @@
+D:\zahran\TugasCalculatorConsoleApp\bin\Debug\TugasCalculatorConsoleApp.exe.config
+D:\zahran\TugasCalculatorConsoleApp\bin\Debug\TugasCalculatorConsoleApp.exe
+D:\zahran\TugasCalculatorConsoleApp\bin\Debug\TugasCalculatorConsoleApp.pdb
+D:\zahran\TugasCalculatorConsoleApp\obj\Debug\TugasCalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\zahran\TugasCalculatorConsoleApp\obj\Debug\TugasCalculatorConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\zahran\TugasCalculatorConsoleApp\obj\Debug\TugasCalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\zahran\TugasCalculatorConsoleApp\obj\Debug\TugasCalculatorConsoleApp.exe
+D:\zahran\TugasCalculatorConsoleApp\obj\Debug\TugasCalculatorConsoleApp.pdb
